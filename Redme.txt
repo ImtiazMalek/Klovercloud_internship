@@ -1,0 +1,3 @@
+# the solution is in python. I did it in python. please call this solution from a different code to verify
+#Here at solution(A,x): "A" is a list where a list of integer can  be passed towards the function
+ and "x" is an Interger.
